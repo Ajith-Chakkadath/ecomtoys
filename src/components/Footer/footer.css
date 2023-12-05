@@ -1,0 +1,58 @@
+/* Footer.css */
+.footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px 10px;
+    /* position: fixed; */
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  .section {
+    flex: 1;
+    text-align: left;
+    margin: 8px;
+  }
+  .logo{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+  }
+  /* .logo {
+    font-weight: bold;
+    font-size: ;
+  } */
+  
+  .company-name {
+    font-size: 20px;
+    text-align: center;
+  }
+  
+  .section h3 {
+      font-size: 20px;
+    margin: 5px 0;
+  }
+  
+  @media (max-width: 768px) {
+      .footer{
+          padding: 5px;
+          height: 25%;
+          justify-content: space-evenly;
+      }
+    .section {
+      flex: 1 0 100%;
+      text-align: center;
+      margin: 2px;
+    }
+  
+    .section h3{
+        font-size: 10px;
+    }
+
+  }
+  

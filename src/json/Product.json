@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "titile": "Rattels",
+    "img": "https://m.media-amazon.com/images/I/41Yslh1M54L.jpg",
+    "price": "120",
+    "des" : " Rattles are classic baby toys designed to engage infants' senses. Typically made of colorful, lightweight materials, they produce a gentle sound when shaken, captivating a baby's attention. Rattles promote sensory development, encouraging babies to explore auditory stimuli and grasp objects. These simple yet effective toys are a staple in early childhood development."
+
+  },
+
+  {
+    "id": "2",
+    "titile": "Junior Ring",
+    "img": "https://m.media-amazon.com/images/I/41CTx0qDaiL._SX300_SY300_QL70_FMwebp_.jpg",
+    "price": "100",
+    "des":"A junior ring is a symbolic piece of jewelry often associated with high school or college traditions. Typically worn by students in their junior year, it signifies progress towards graduation. Junior rings often feature school emblems or symbols, serving as a cherished memento and a reminder of academic achievements and community bonds."
+  },
+  {
+    "id": "3",
+    "titile": "Octopus Plushie Reversible Soft Toys",
+    "img": "https://m.media-amazon.com/images/I/41dqCDhh3EL._SY300_SX300_QL70_FMwebp_.jpg",
+    "price": "60",
+    "des" : "Octopus plushie reversible soft toys have gained popularity for their unique design. With double-sided expressions, these cuddly toys allow users to flip them inside out, revealing a different face or color. The reversible feature adds an element of fun and versatility, providing users with two adorable looks in one huggable octopus toy."
+  },
+  {
+    "id": "4",
+    "titile": "Honey Penguin",
+    "img": "https://m.media-amazon.com/images/I/41SMFsDvi2L._SX300_SY300_QL70_FMwebp_.jpg",
+    "price": "450",
+    "des":"The Honey Penguin toy is a charming and cuddly plush designed to captivate children and penguin enthusiasts alike. With its soft and huggable exterior, the Honey Penguin exudes warmth and sweetness. The toy might feature honey-colored accents, adding a delightful touch to its overall design. This playful companion brings joy and comfort to those who embrace its adorable presence."
+  },
+  {
+    "id": "5",
+    "titile": "Set of 7 Attractive Rattles",
+    "img": "https://m.media-amazon.com/images/I/41Yslh1M54L._SX300_SY300_QL70_FMwebp_.jpg",
+    "price": "140",
+    "des":"As of my last update in January 2022, I don't have real-time data on specific products or their prices. To find the current price for a set of 7 attractive rattles toys, consider checking popular online marketplaces, toy stores, or the official websites of toy manufacturers. Prices can vary based on brand, quality, and any additional features the rattles may have."
+  },
+  {
+    "id": "6",
+    "titile": "RATNA'S Merry go Round ",
+    "img": "https://m.media-amazon.com/images/I/61Apn5qbO6L._SY879_.jpg",
+    "price": "140",
+    "des":"RATNA'S Merry Go Round toy is a delightful and whimsical plaything, likely enchanting children with its spinning motion. While details may vary, this toy typically offers a carousel-like experience, encouraging imaginative play. Check online retailers or RATNA'S official channels for the latest information on this charming and engaging toy."
+  },
+  {
+    "id": "7",
+    "titile": "Dancing Cactus Talking Plush Toy",
+    "img": "https://m.media-amazon.com/images/I/41WWpQxm7tL._SX300_SY300_QL70_FMwebp_.jpg",
+    "price": "325",
+    "des":"The Dancing Cactus Talking Plush Toy is a delightful and interactive play companion. Adorned with a cute cactus design, it dances and talks, bringing joy to children and entertaining them with its lively movements and amusing phrases. This whimsical toy combines cuddliness with entertainment, providing a fun and engaging experience for kids."
+  },
+  {
+    "id": "8",
+    "titile": "LuvLap Sunny Ride on & Car for Kids ",
+    "img": "https://m.media-amazon.com/images/I/41RcGFqm3uL._SX300_SY300_QL70_FMwebp_.jpg",
+    "price": "300",
+    "des" : "LuvLap Sunny Ride On & Car for Kids is a delightful and safe ride-on toy designed for toddlers. With a car-inspired design, it offers little ones a fun and exciting way to move around. Check online retailers or the official LuvLap website for the latest details on this charming and engaging ride-on toy."
+  },
+  {
+    "id": "9",
+    "titile": "Galaxia Mini Metal Car for Kids",
+    "img": "https://m.media-amazon.com/images/I/51XEfA1G9cL._SY300_SX300_QL70_FMwebp_.jpg",
+    "price": "560",
+    "des":"The Galaxia Mini Metal Car for Kids is a miniature and durable toy vehicle designed for young children. With its compact size and sturdy metal construction, it provides a delightful play experience. To learn more about this toy, including features and pricing, check online retailers or the official Galaxia website for the latest information."
+  },
+  {
+    "id": "10",
+    "titile": "Rubber Colorful Floating Baby Toys",
+    "img": "https://m.media-amazon.com/images/I/41voK5Bkm2L._SY300_SX300_QL70_FMwebp_.jpg",
+    "price": "340",
+    "des":"Rubber Colorful Floating Baby Toys are designed to make bath time enjoyable and educational. These buoyant toys, often featuring vibrant colors and diverse shapes, capture infants' attention, enhancing sensory development. Made from safe and durable rubber, they ensure a playful and engaging water experience for babies, promoting both fun and learning."
+  }
+]
