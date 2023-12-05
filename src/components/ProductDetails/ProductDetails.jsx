@@ -5,15 +5,29 @@ import product from "../../json/Product.json"
 import { useParams, Link } from "react-router-dom";
 
 function ProductDetails() {
-  const { productid } = useParams();
+  const { productID } = useParams();
   const [productDetails, setProductDetails] = useState({});
 
   useEffect(() => {
-    const selectedProduct = product.find((p) => p.id === parseInt(productid, 10));
-    setProductDetails(selectedProduct);
-  }, [productid]);
+    // const selectedProduct = product.find((p) => p.id === parseInt(productid, 10));
 
-console.log(productDetails)
+    // console.log(product[1])
+    // setProductDetails(selectedProduct);
+
+    productDetailsall(productID)
+
+  }, [productID]);
+
+  function productDetailsall(productid){
+
+    console.log(productid)
+    const selectedProduct = product.find(({id}) => id == parseInt(productid));
+    setProductDetails(selectedProduct)
+
+  }
+
+
+  // console.log(productDetails.img)
 
   return (
     <div className="product-details-container">

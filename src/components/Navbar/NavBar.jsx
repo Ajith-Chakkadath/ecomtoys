@@ -21,14 +21,14 @@ const [isNavOpen, setIsNavOpen] = useState(false);
       </a>
       <div className='navlistDiv' >
           <ul className={`navlist ${isNavOpen ? 'open' : ''}`}>
-              <li><a href='#'> Home</a></li>
+              <li><a href='/'> Home</a></li>
               <li><a href='#'> Shop</a></li>
               <li><a href='#'> Cart</a></li>
               <li><a href='#'> About us</a></li>
           </ul>
       </div>
       <div className='loginBtn '>
-          <Link to="/login" target="_blank" > <a className='btn'>Login</a></Link>
+          <Link to="/login"  > <a className='btn'>Login</a></Link>
           {/* <a className='btn' href='/login'>Login</a> */}
       </div>
        <div className='responsive' onClick={toggleNav}>

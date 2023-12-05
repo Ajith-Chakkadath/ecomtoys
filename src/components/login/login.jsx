@@ -21,7 +21,7 @@ const LoginForm = ({ setAuthenticated }) => {
 
       if (isValidUser) {
         setAuthenticated(true);
-        navigate('/'); // Redirect to the dashboard or any other route
+        navigate('/product'); // Redirect to the dashboard or any other route
       } else {
         alert('Invalid username or password');
       }

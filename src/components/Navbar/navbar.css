@@ -1,3 +1,9 @@
+
+ul{
+    margin-bottom: 0px!important;
+    padding-left: 0px !important;
+}
+
 nav{
     display: flex;
     align-items: center;
